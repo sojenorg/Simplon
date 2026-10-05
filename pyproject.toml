@@ -1,0 +1,10 @@
+[project]
+name = "analyse-ventes"
+version = "0.1.0"
+description = "Analyse des ventes d'une PME : import SQLite, requêtes SQL et notebook"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas",
+    "plotly",
+    "notebook",
+]
